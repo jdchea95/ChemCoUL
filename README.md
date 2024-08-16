@@ -1,5 +1,5 @@
-# ChemCoUT
-This repository contains the output files from the Chemical Condition of Use Tracker (ChemCoUT) algorithm. 
+# ChemCoUL
+This repository contains the output files from the Chemical Condition of Use Locator (ChemCoUL) algorithm. 
 
 Each folder contains two qualitative mapping .PNG files that illustrates the chemical flow mapping through commerce. There is also a pdf generated, containing a facility summary report of all of the chemical-related data and facilities registered within the Facility Registry Service (FRS). 
 
