@@ -1,7 +1,12 @@
 # ChemCoUL
 This repository contains the output files from the Chemical Condition of Use Locator (ChemCoUL) algorithm. The Python code used to run the algorithm is available in the Supporting Information, Section B. Due to the file size restriction in GitHub, dependency files that can be obtained from publicly available database were not uploaded. However, please reach out to the corresponding author (Chea.John@epa.gov) if you require assistance with acquiring the dependency files.
 
-Each folder contains two qualitative mapping .PNG files that illustrates the chemical flow mapping through commerce. There is also a pdf generated, containing a facility summary report of all of the chemical-related data and facilities registered within the Facility Registry Service (FRS). 
+Data Availability Statement
+The data that support the findings of this study are openly available in the Chemical Data Reporting database at https://www.epa.gov/chemical-data-reporting/access-chemical-data-reporting-data, Toxics Release Inventory at https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-plus-data-files-calendar-years-1987-present, and Chemical and Products Database at https://www.epa.gov/chemical-research/chemical-and-products-database-cpdat. 
+
+
+Regarding the result of each chemical (e.g., Ammonia),
+Each chemical folder contains two qualitative mapping .PNG files that illustrates the chemical flow mapping through commerce. There is also a pdf generated, containing a facility summary report of all of the chemical-related data and facilities registered within the Facility Registry Service (FRS). 
 
 The Condition-of-use-TRI1b-CDR-PUCS-NAICS-CASRN.xlsx file contains the raw data acquired from the ChemCOUL algorithm (including database search + crosswalked information)
 
